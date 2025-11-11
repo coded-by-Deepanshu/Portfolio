@@ -88,7 +88,6 @@ section {
   padding: 10rem 10%;
 }
 
-/* HOME */
 .home {
   display: flex;
   align-items: center;
@@ -233,7 +232,6 @@ section {
   line-height: 1.6;
 }
 
-/* SERVICES */
 .service {
   background-color: var(--bg-color);
 }
@@ -275,7 +273,6 @@ section {
   line-height: 1.6;
 }
 
-/* CONTACT */
 .contact {
   background-color: var(--bg-color);
   text-align: center;
@@ -331,7 +328,6 @@ section {
   box-shadow: 0 0 20px var(--main-color);
 }
 
-/* SCROLLBAR */
 ::-webkit-scrollbar {
   width: 10px;
 }
