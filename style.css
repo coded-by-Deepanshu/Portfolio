@@ -208,7 +208,7 @@ section {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 4rem;
-  background-color: var(--second-bg-color);
+  background-color: var(--bg-color);
 }
 
 .about-img img {
