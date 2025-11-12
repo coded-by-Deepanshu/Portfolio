@@ -387,3 +387,12 @@ section {
     padding: 0.8rem 2rem;
   }
 }
+.footer {
+  text-align: center;
+  background-color: var(--bg-color);
+}
+.footer .social-icons {
+  justify-content: center;
+  margin: 2rem 0;
+  gap: 3rem;
+}
