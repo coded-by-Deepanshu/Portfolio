@@ -362,7 +362,9 @@ section {
   .navbar {
     display: none;
   }
-
+  .social-icons {
+    justify-content: center;
+  }
   .home, .about {
     flex-direction: column;
     text-align: center;
